@@ -17,6 +17,14 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         // Some codes
     }
+    
+    func newFunc() {
+        // some codes
+    }
+    
+    func evenNewFunc() {
+        
+    }
 
 
 }
